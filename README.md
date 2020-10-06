@@ -45,9 +45,14 @@ https://docs.anaconda.com/anaconda/install/
 
 It will then open your default web browser to this URL and you will see this notebook dashboard.
 
+![alt text](https://github.com/cfg-workshop/dash-boilerplate/blob/main/images/tree-view.PNG)
+
+
 
 Click on the notebook cfg-dash-boilerplate and you should see the following:
 
+
+![alt text](https://github.com/cfg-workshop/dash-boilerplate/blob/main/images/notebook-view.PNG)
 
 
 1. Make sure that the notebook shows trusted on the top right (else click on where it says "Untrusted" and select "Trust")
