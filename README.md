@@ -25,7 +25,7 @@ https://docs.anaconda.com/anaconda/install/
 
 3. Activate the new environment: ``` conda activate cfg-dash ```
 
-4. Install all required dependencies from the requirements.txt file provided: ``` pip install requirements.txt ```
+4. Anaconda should install all necessary dependencies but if not please install all required dependencies from the requirements.txt file provided: ``` pip install -r requirements.txt ```
 
 5. Add the new virtual env to the jupyter kernel: ``` python -m ipykernel install --user --name=cfg-dash ```
 
